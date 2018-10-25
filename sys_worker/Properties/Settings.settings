@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="sys_worker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="proc_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\TeamViewer\TeamViewer.exe</Value>
+    </Setting>
+    <Setting Name="proc_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TeamViewer 12</Value>
+    </Setting>
+    <Setting Name="email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">37729782@qq.com</Value>
+    </Setting>
+    <Setting Name="period" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="unit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

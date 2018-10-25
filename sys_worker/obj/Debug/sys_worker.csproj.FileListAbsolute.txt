@@ -1,0 +1,9 @@
+C:\work\workspaces_c#\sys_worker\sys_worker\bin\Debug\sys_worker.exe
+C:\work\workspaces_c#\sys_worker\sys_worker\bin\Debug\sys_worker.pdb
+C:\work\workspaces_c#\sys_worker\sys_worker\obj\Debug\sys_worker.Form1.resources
+C:\work\workspaces_c#\sys_worker\sys_worker\obj\Debug\sys_worker.Properties.Resources.resources
+C:\work\workspaces_c#\sys_worker\sys_worker\obj\Debug\sys_worker.csproj.GenerateResource.Cache
+C:\work\workspaces_c#\sys_worker\sys_worker\obj\Debug\sys_worker.exe
+C:\work\workspaces_c#\sys_worker\sys_worker\obj\Debug\sys_worker.pdb
+C:\work\workspaces_c#\sys_worker\sys_worker\obj\Debug\sys_worker.csprojResolveAssemblyReference.cache
+C:\work\workspaces_c#\sys_worker\sys_worker\bin\Debug\sys_worker.exe.config
